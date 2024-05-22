@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-pzc-multiworkspace"
+description = "A simple, quick, and dirty implementation of multiple workspaces within ComfyUI."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/prozacgod/comfyui-pzc-multiworkspace"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-pzc-multiworkspace"
+Icon = ""
